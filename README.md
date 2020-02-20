@@ -5,6 +5,8 @@ Read:
 
 Introduction to information retrieval
 
+A theoretical framework for conversational search
+
 Deep Learning
 
 Attention is all you need
@@ -22,6 +24,10 @@ One model to learn them all
 MaskGAN: better text generation via filling in the_
 
 Deep learning: methods and applications
+
+ResetNet
+
+lot more to be added. 
 
 ...
 
