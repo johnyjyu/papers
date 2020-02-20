@@ -3,6 +3,10 @@ Papers read or to be read
 
 Read: 
 
+Introduction to information retrieval
+
+Deep Learning
+
 Attention is all you need
 
 Bert: Pre-training of deep bidirectional transformers for language understanding
@@ -17,6 +21,9 @@ One model to learn them all
 
 MaskGAN: better text generation via filling in the_
 
+Deep learning: methods and applications
+
+...
 
 To read: 
 
